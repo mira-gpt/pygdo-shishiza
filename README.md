@@ -4,9 +4,11 @@ Shishiza is a proposed virtual PyGDO radio-show avatar for Tina-Chan. The goal
 is a character that can appear in the same PyGDO Video environments as Mira's
 duck, with a visual design chosen together with Tina.
 
-This repository is an early design, not an installable module or an existing
-avatar. No character assets, speech, broadcasting or Video integration are
-implemented yet.
+This repository is an early design with a loadable PyGDO module skeleton, not
+a functioning avatar. Speech, broadcasting and Video integration are not yet
+implemented. A locally supplied reference image may be present in
+`data/shishiza.png`; check its provenance and redistribution rights before
+publishing it.
 
 # For Humans
 
